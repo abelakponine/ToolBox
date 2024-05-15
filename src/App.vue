@@ -56,4 +56,13 @@ nav a.router-link-exact-active {
 [v-cloak] {
   display: none;
 }
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.fixed {
+  position: fixed;
+}
 </style>

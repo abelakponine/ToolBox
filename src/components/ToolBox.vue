@@ -6,7 +6,7 @@
           <div class="card-title p-3" style="
             background: #ff4f09;
             color: #fff;
-            border-radius: 4px 30px 30px 30px;
+            border-radius: 20px;
           ">XML Pretty</div>
         </div>
       </div>
